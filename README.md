@@ -1,3 +1,5 @@
 # foo
-nothing really interesting here
-still nothing
+
+- nothing really interesting here
+- still nothing
+- something will happen soon
